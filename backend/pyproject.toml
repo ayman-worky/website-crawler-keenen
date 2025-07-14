@@ -23,6 +23,7 @@ dependencies = [
     "pymysql",
     "beautifulsoup4>=4.13.4",
     "lxml>=5.3.0",
+    "cryptography>=45.0.5",
 ]
 
 [tool.uv]
